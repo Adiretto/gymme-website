@@ -61,6 +61,7 @@ $("document").ready(function () {
         }
         else{
             c1.attr("type","password");
+            
             a1.css("display","none");
             b1.css("display","block")
         }
